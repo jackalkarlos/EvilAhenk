@@ -1,5 +1,5 @@
-# CVE-
-LiderAhenk Merkezi Yönetim Sistemi mimarisinde, uç birimler (agents) arası tüm istemcilerin birbirleri üzerinde 'root' yetkisiyle kod çalıştırılmasına (Unauthorized RCE & Lateral Movement) olanak tanıyan kritik güvenlik zafiyetidir.
+# CVE-2026-6508 && CVE-2026-6509
+EvilAhenk, LiderAhenk Merkezi Yönetim Sistemi mimarisinde, uç birimler (agents) arası tüm istemcilerin birbirleri üzerinde 'root' yetkisiyle kod çalıştırılmasına (Unauthorized RCE & Lateral Movement) olanak tanıyan kritik güvenlik zafiyetidir.
 
 ## Sistem Nasıl Çalışır
 LiderAhenk'te yönetim paneli/merkez sunucu, istemcilere XMPP üzerinden görev ve politika mesajları yollar.
