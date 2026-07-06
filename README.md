@@ -1,4 +1,4 @@
-# CVE-2026-6508 && CVE-2026-6509
+# CVE-2026-6508
 EvilAhenk, LiderAhenk Merkezi Yönetim Sistemi mimarisinde, uç birimler (agents) arası tüm istemcilerin birbirleri üzerinde 'root' yetkisiyle kod çalıştırılmasına (Unauthorized RCE & Lateral Movement) olanak tanıyan kritik güvenlik zafiyetidir.
 
 ## Sistem Nasıl Çalışır
